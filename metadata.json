@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Trend Analyzer",
+  "description": "A powerful YouTube video analysis tool with multi-country support, performance filtering, and Excel export capabilities.",
+  "requestFramePermissions": []
+}
